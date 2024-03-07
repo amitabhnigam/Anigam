@@ -1,0 +1,22 @@
+{
+  "name": "anigam",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitabhnigam/Anigam.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Amitabh Nigam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/amitabhnigam/Anigam/issues"
+  },
+  "homepage": "https://github.com/amitabhnigam/Anigam#readme"
+}
