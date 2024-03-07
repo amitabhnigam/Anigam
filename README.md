@@ -1,0 +1,2 @@
+# anigam
+First npm package
